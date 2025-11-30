@@ -12,7 +12,7 @@ for i in list:
         print("odd nuner", i)
 
 
-list=['rohit', 'preeti', 'nisha', 'ruben']
+list=['rohit', 'preeti', 'nisha', 'ruben', 'rohan']
 
 for i in list:
     if i.startswith('r'):
