@@ -15,7 +15,8 @@ o	Multiplication
 o	Division
 3.  Displays the results of each operation on the screen.
  Expected Output:
-The output should include the result of each operation performed, for example:
+
+The output should include the result of each operation performed
  
 **Task 2: Create a Personalized Greeting**
 
